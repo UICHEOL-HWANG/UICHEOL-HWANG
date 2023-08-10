@@ -16,8 +16,8 @@
 
 📢 <strong>CONTACT ME</strong> 📢
 
-<a href="icuchoel@gmail.com"><img src="https://img.shields.io/badge/gmail-15C39A?style=flat&for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="3rdcat@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat&for-the-badge&logo=naver&logoColor=white"></a>
+<a href="mailto:icuchoel@gmail.com"><img src="https://img.shields.io/badge/gmail-15C39A?style=flat&for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:3rdcat@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat&for-the-badge&logo=naver&logoColor=white"></a>
 
 
 
