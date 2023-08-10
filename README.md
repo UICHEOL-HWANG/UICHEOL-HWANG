@@ -18,7 +18,7 @@
 
 <a href="mailto:icuchoel@gmail.com"><img src="https://img.shields.io/badge/gmail-15C39A?style=flat&for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="mailto:3rdcat@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat&for-the-badge&logo=naver&logoColor=white"></a>
-
+<a href="https://velog.io/@icucheol"><img src="https://img.shields.io/badge/velog-4FC08D?style=flat&for-the-badge&logo=velog&logoColor=white"></a>
 
 
 ---
