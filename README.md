@@ -6,7 +6,7 @@
 📚 <strong>Tech Stack</strong> 📚
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/javascript-FF160B?style=flat&for-the-badge&logo=javascript&logoColor=white">  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&for-the-badge&logo=html5&logoColor=white">\
-<img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat&for-the-badge&logo=vuedotjs&logoColor=white">  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/css-000000?style=flat&for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat&for-the-badge&logo=vuedotjs&logoColor=white">  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/css-000000?style=flat&for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-4C2C?style=flat&for-the-badge&logo=TensorFlow&logoColor=white">  <img src="https://img.shields.io/badge/scikitlearn-FFB3C7?style=flat&for-the-badge&logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/keras-4ACBD6?style=flat&for-the-badge&logo=keras&logoColor=white">
 
 
 🛠 <strong>USE TOOLS</strong> 🛠 
